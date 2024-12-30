@@ -1,4 +1,4 @@
-package com.componentsapp
+package com.dma.componentsapp
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

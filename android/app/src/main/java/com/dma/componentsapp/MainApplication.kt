@@ -1,4 +1,4 @@
-package com.componentsapp
+package com.dma.componentsapp
 
 import android.app.Application
 import com.facebook.react.PackageList
